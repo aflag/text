@@ -1,0 +1,80 @@
+                   COMPUTER SCIENCE
+
+I was asked by a friend what do computer scientists do. She asked me
+whether we learn things like creating websites and databases. She also
+asked if programming is a big part of it. I then wrote quite a big
+answer, much of it is still unchanged in this essay.  I liked so much
+the insights I had during the writing, that I thought other people
+might enjoy reading it as well.
+
+We don't really learn how to make websites per se, I had a class about
+creating databases, though. I think most would disagree with me, but I
+think programming is almost all there is to computer science.
+
+Usually people watch the nature and then they try to create a
+mathematical model that will describe and predict its behaviour. It
+happened -- and still happens -- to physics, to chemestry, to biology
+and others.
+
+Interestingly, in computer science things started the other way
+around.  The nature was changed in order to describe a mathematical
+model. The Turing Machine was a mathematical model of computation
+created by Alan Turing. Later on they created hardware that would
+simulate that model to some extent (the turing maching is less limited
+than a computer, even today). That hardware evolved into the computers
+we have today. They're easier to program than a turing machine and
+they get faster by the month, but they are not able to do more
+computations than the turing machine is. In fact, they are able to do
+less.
+
+So, the computer science began in a very weird way. That's probably
+one of the reasons that many computer science papers are -- still --
+very lacky when it comes to the scientific method [1]. But that's
+disgressing.
+
+The root of computer science is the study of the ways of doing
+computation. Besides the Turing Machine there's also lambda-calculus
+and, in fact, each new language is a new way of doing computation.
+Though they're all postulated to be equivalent. The programming
+languages are there to make our job easier at writing algorithms
+(programming in the Turing Machine is a major pain). There's a bunch
+we don't know yet about the behaviour of algorithms and such.
+
+Anyhow, after a while people got pretty confortable at writing
+programs. And they coded a lot. They developed other hardware, new
+ways of communication information and all that. When that started to
+happen, computer science started to focusing on all the ways we can
+process the information and such. It also start to focus in the new
+systems people were creating. I feel that's when computer science
+started to look like a science.
+
+What a computer scientist do now is to try to understand this new form
+of nature we created. For example, we try to understand this Internet
+thing (lots of papers trying to understand how it's evolving, where
+it's going, how it's going).  We've built it, but it's amazing how
+little we understand our creation. People have created operating
+systems, but we don't fully understand what we need to do in order to
+get the most of it. In order to understand all this stuff we've
+created we need the scientific method, that's why I say that computer
+science wasn't a science at the very beginning.
+
+Nowadays, a great part of the computer scientist are trying to
+understand what we have programmed so far and what we have to do to
+improve it. That's where most of the science lays, we have to
+understand what's going on those systems we made so we learn to
+improve them. Much like a physicist has to understand nature in order
+to change it to his likings.
+
+Of course, I might be underestimating it a bit. But it's very hard to
+define a label such as "computer science". Take A.I., for instance, it
+has so much influence of psycology, philosophy and medicine that
+it's hard to define where computer science ends and the other subject
+begins. Usually, when there's code to be written (that is, we figured
+out a bunch of steps to take in order to produce something we want) we
+call it computer science.
+
+I'm not sure my text was all that great here, it certainly can be
+improved. But I hope you get the point.
+
+[1] Walter Tichy, Should Computer Scientists Experiment More?, IEEE
+Compute May 1998, pages 32-40.

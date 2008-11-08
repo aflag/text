@@ -1,0 +1,269 @@
+			5 + 2
+
+CENA I
+	CAMERA: Focando uma cortina
+
+	* Lentamente a cortina fica mais clara devido a luz solar.
+
+	CAMERA: Close em um celular
+
+	* Quando a cortina está totalmente clara um celular toca com uma música
+	  de rock [inicio de smoke on the water].
+
+	* Um homem levanta da cama e pega o celular que está na cabiceira.
+
+	CAMERA: Close no homem mexendo no celular
+
+	* Ele seleciona a opção ``soneca''
+
+	[ A musica de fundo é uma batida repetitiva que lembra o som de um
+	  relógio ]
+	
+	CAMERA: Volta para o celular
+
+	* Alguns instantes mais tarde o celular toca novamente.
+
+	[ A musica para quando o celular toca ]
+
+	* O celular toca até parar.
+
+	[ A musica volta ]
+
+	* Depois de alguns instantes o celular volta a tocar
+
+	[ A musica para ]
+
+	* O homem arrasta sua mão até o celular
+
+	CAMERA: Foca no rosto do homem olhando para o celular
+
+	* O homem faz um rosto de espanto ao ver as horas. Ele joga o virol para
+	  o lado e salta rapidamente da cama em direção ao armário.
+
+	CAMERA: Mostrando a cama inteira e as ações do homem, a camera congela
+	no momento que o homem pula da cama.
+
+CENA II
+	CAMERA: Focando uma porta, no lado esquerdo é possível ver a porta do
+	elevador.
+
+	[ A musica de fundo é uma batida repetitiva que lembra o som de um
+	  relógio ]
+
+	* O elevador passa descendo.
+
+	* Alguns instantes mais tarde o homem abre a porta abruptamente. Tranca
+	  rápido a porta e começa a apertar o botão do elevador repetidas vezes.
+
+	CAMERA: Focaliza só o homem apertando o botão do elevador com seu rosto
+	próximo ao botáo.
+
+CENA III
+	CAMERA: Filma a porta da garagem do prédio que o homem mora.
+
+	* Um carro com o mesmo homem sai rapidamente da garagem.
+
+	CAMERA: Filma dentro do carro. Mostra o homem despenteado, visivelmente
+	preocupado e com pressa.
+
+CENA IV - O escritório
+	CAMERA: Uma visão ampla do escritório. É possível ver grande parte dos
+	colegas, o chefe e a porta por onde se entra no escritório.
+
+	* O chefe do homem, vamos chamá-lo de FERNANDO, olha com uma feição de
+	  incomodado para a porta que dá acesso ao escritório.
+
+	* A porta abre repentinamente. Fernando entra no escritório, dá bom dia
+	  para o patrão e senta em seu computador. Um colega de Fernando só olha
+	  para ele e balança a cabeça antes que Fernando sente. O protagonista
+	  apenas balança a cabeça de volta.
+
+	* O chefe de Fernando termina de arrumar uns papéis na mesa que está
+	  usando e sai do escritório sem dizer nada a ninguém.
+
+	[ A musica para. ]
+
+	CAMERA: Mostra os olhos de Fernando. Eles refletem uma tela cheia de
+	textos.
+
+	FERNANDO: Não acho que a tarefa 20 seja uma boa ideia. Não seria melhor
+	se -- é interrompido pelo colega.
+
+	CAMERA: Mostra o colega de Fernando que o está interrompendo e Fernando.
+
+	* Fernando para de olhar para o monitor e se volta para o colega, que
+	  continua apenas olhando para o seu próprio monitor.
+
+	COLEGA: Comento isso no sistema.
+	FERNANDO: A gente pode fazer isso depois, não quer escutar o que eu acho
+	antes?
+	COLEGA: Cara, estou ocupado.
+
+	CAMERA: Foca o rosto de Fernando.
+
+	* Fernando volta-se novamente para a tela e começa a digitar. Sua feição
+	  é de passividade. Ele olha para a tela como quem olha para um relógio a
+	  espera da ebulicão da água.
+
+	* Alguns instantes depois o chefe de Fernando entra na sala.
+
+	CAMERA: Mostra Fernando de costas e o chefe entrando pela porta do
+	escritório.
+
+	CHEFE: Estamos com um problema no servidor de produção! Encontrem o
+	erro! Ninguém está conseguindo entrar no sistema!!
+	FERNANDO: Nem como administrador?
+	CHEFE: NINGUÉM! NINGUÉM! Consertem rápido!
+
+	[ A batida repetitiva volta, mas agora mais rápida e mais intensa. ]
+
+	* O chefe sai da sala.
+
+	O colega de Fernando repete algumas vezes no mesmo rítmo da música:
+	_ Debugar! Debugar! Debugar!
+
+	CAMERA: Foca o teclado de Fernando. Ele digita rápido, ao rítmo da
+	música que fica cada vez mais intensa e rápida.
+
+	CAMERA: Mostra a tela onde passam várias linhas de log do sistema.
+
+	CAMERA: Filma a partir do monitor para Fernando.
+
+	* Nessa última tomada atrás de Fernando pode-se ver um soldado marchando
+	  ao rítmo da música. O fundo do escritório fica todo preto. Tudo que é
+	  possível ver é Fernando e o soldado.
+
+	CAMERA: Mostra o teclado, depois a tela e depois Fernando. Outro soldado
+	aparece. Isso se repete ate que aparecem 5 soldados.
+
+	CAMERA: Passa a mostrar os soldados e Fernando por trás
+
+	* Os soldados começam a bater em fernando enquanto marcham.
+
+	SOLDADO1: Você não vai conseguir.
+	SOLDADO2: DESISTIR.
+	SOLDADO3: ACABOU.
+
+	* Os soldados repetem suas frases inúmeras vezes, sempre antes de
+	  acertar um soco em Fernando. Os socos acontecem no rítmo da batida.
+
+	* Depois de muito apanhar, um close no monitor mostra que o relógio
+	  passou de 18:59 para 19:00.
+
+	* Os soldados desaparecem. O escritório volta a ser iluminado
+	  normalmente. A camera mostra de lado Fernando olhando para o monitor.
+	  A feição de Fernando -- todo machucado pelos socos -- é de completa
+	  desolação.
+
+	Um colega de Fernando grita:
+	_ Consegui! Consegui! Vamos para casa!
+
+	CAMERA: Mostra Fernando de costas e a porta de saida.
+
+	* Fernando desliga tudo em um piscar de olhos. Ele sai o mais rápido que
+	  consegue sair do escritorio sem correr. Nem despede de seus colegas.
+
+	CAMERA: Mostra o outro lado da porta de saida. Na frente da porta há um
+	parapeito em que se pode olhar o terraço do predio a partir de 15
+	andares de altura.
+
+	* A porta se abre e Fernando vem rápido em direção ao parapeito. Ele
+	  para com as mãos no parapeito. Respirando pesado. Ele olha para baixo.
+
+	CAMERA: Mostra, do lado de fora do parapeito, o tronco e o rosto de
+	Fernando, visto de baixo para cima.
+
+	* Fernando continua respirando pesado, olhando fixamente para baixo.
+
+CENA V
+	CAMERA: Focando uma cortina
+
+	* Lentamente a cortina fica mais clara devido a luz solar.
+
+	CAMERA: Mostra Fernando e os soldados marchando de costas.
+
+	CAMERA: Mostra Fernando de baixo para cima no parapeito. Enquanto ele
+	olha fixamente para baixo.
+
+		| Essas tomadas se repetem 4 vezes |
+
+CENA VI
+	CAMERA: Mostra a porta e o elevador da casa de Fernando.
+
+	* Fernando sai de casa e chama o elevador. Ele está bem vestido e
+	  penteado. Após chamar o elevador ele fica encarando a porta do
+	  elevador.
+
+CENA VII
+	CAMERA: Mostra a porta da caragem de Fernando
+
+	* O carro sai bem mais devagar que na primeira vez. É possível notar que
+	  é noite.
+
+CENA VIII
+	CAMERA: Mostra a fila de entrada numa boate.
+
+	* Fernando sai de perto da fila e vai em direção a seus amigos que estão
+	  em uma rodinha do lado da fila.
+	
+	FERNANDO: É R$15,00 para entrar. Vamos?
+	AMIGO1: Bora! Vamos beber muito hoje!!
+
+	* Os outros amigos e Fernando concordam.
+
+CENA IX
+	CAMERA: Mostra Fernando na frente de uma menina
+
+	FERNANDO: Oi, tudo bem? Como você se chama?
+	MENININA: Daniela
+
+	* Fernando se aproxima para dar um beijo na bochecha dela
+
+	FERNANDO: Prazer Daniele. Eu sou Fernando.
+	DANIELA: Prazer.
+	FERNANDO: Tá curtindo a boate? Minha primeira vez aqui.
+	DANIELA: É legal, sertanejo é sempre bom, né?
+	FERNANDO: Pode crer, Daniele. Dani. Posso te chamar de Dani?
+	DANIELA: Todas minhas amigas me chamam assim!
+
+	* Os dois param de falar.
+
+	CAMERA: Foca no rosto de Daniela.
+
+	* Daniela dança sem falar nada, só olhando para cima
+
+	CAMERA: Foca no rosto de Fernando.
+
+	* Fernando dança olhando para baixo, sem mexer os lábios.
+
+	CAMERA: Mostra Fernando e Daniela se beijado fervorosamente.
+
+CENA X
+	* A tela fica preta. Várias cenas de violencia começam a aparecer.
+	  Tiros, espancamentos, gritos.
+	* No rodapé da tela aparece escrito:
+		"Este não é um filme pornográfico"
+
+CENA XI
+	CAMERA: Foca a cama de Fernando a partir do pé da cama.
+
+	* Fernando está dormindo enquanto Daniela cuidadosamente levanta da
+	  cama, vest suas roupas e sai do quarto.
+
+	* Depois de um tempo a cortina começa a se iluminar -- o Sol está
+	  nascendo.
+	
+	* Fernando acorda, coloca a mão na cabeça como quem está com dor de
+	  cabeça. Olha para o lado na cama. Esfrega os olhos e se levanta.
+
+	CAMERA: Foca a partir do criado mudo
+
+	* Fernando pega o telefone e começa a digitar.
+
+	CAMERA: Foca na tela do celular
+
+	* Fernando termina de escrever a seguinte mensagem e a envia para
+	  Gustavo:
+	  	"Cara, vc n vai acreditar. Aquela Daniele e mto gostosa!"
+
+							-- Rafael C. de Almeida
