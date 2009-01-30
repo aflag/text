@@ -4,3 +4,15 @@ Back then a wise man told me:
 _ In one or two decades, my son, a computer will take only half of an average
 room.
 I thought he was insane! No way the size of the room will double in 20 years!
+
+
+-*- Robôs e vacas -*-
+
+Um robô que foi programado para ficar em pé, não importa o quanto você o
+empurra, ele não irá cair. Não por não querer cair, mas simplesmente porque tudo
+que ele sabe é ficar de pé.
+
+Uma vaca talvez tenha a mesma relação com a vida. Ao tentar matá-la ela tenta
+evitar a morte não porque ela não deseja a morte. Como o robô, ela pode não ter
+esse desejo. A vaca apenas se mantem viva porque ela só sabe ficar viva, não
+sabe como morrer.
