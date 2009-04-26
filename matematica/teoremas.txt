@@ -1,0 +1,13 @@
+Teorema Julia. Sejam p_1, p_2, p_3 e p_4 primos distintos tal que
+
+       p_1 * p_2  +  p_3 * p_4    =    p_5 * p_6
+
+então p_5 e p_6 são distintos de p_1, p_2, p_3 e p_4.
+
+Prova. Se p_3 = p_5 temos
+       p_1 * p_2    =    p_5 * p_6  -  p_5 * p_4 ->
+       p_1 * p_2    =    p_5 (p_6 - p_4)         ->
+       (p_1 * p_2)  /  p_5    =    p_6 - p_4
+portanto p_1 = p_5 ou p_2 = p_5. Qualquer uma das duas condições são
+um absurto porque faria com que p_3 = p_2 ou p_3 = p_1, o que quebra
+a premissa.
