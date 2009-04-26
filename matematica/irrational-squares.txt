@@ -1,0 +1,52 @@
+Theorem Jessica. The sqrt(p), where p is a prime, is never rational.
+
+Proof. Suppose that sqrt(p) = a/b, it leads us to:
+       p = a^2 / b^2 ->
+       pb^2 = a^2
+by (Kelly) a^2 and b^2 have an even number of each prime factor. So, if we
+multiply b^2 by p, we get an odd number of the factor p. Thus, pb^2 = a^2 cannot
+possible hold. Therefore our assumption that sqrt(p) = a/b is invalid and
+sqrt(p) cannot be rational.
+
+---------------------------------------------------------------------------
+
+Theorem Kelly. For all a in N, a^2 has an even number of occurences of each
+prime factor in a.
+
+Proof.
+	case PI (a has an even number of occurences of prime factor h):
+		a = ... * h^(2k) * ...
+		a^2 = ... * h^(2k) * h^(2k) * ...
+		a^2 = ... * h^(2k + 2k) * ...
+		a^2 = ... * h^(2(2k + 2k)) * ...
+		note that 2(2k+2k) is even.
+	case E (a has an odd number of occurences of prime factor h):
+		a = ... * h^(2k + 1) * ...
+		a^2 = ... * h^(2k + 1) * h^(2k + 1) * ...
+		a^2 = ... * h^(2k + 1 + 2k + 1) * ...
+		a^2 = ... * h^(2 * (2k + 1)) * ...
+		note that 2 * (2k + 1) is even.
+
+
+---------------------------------------------------------------------------
+
+Theorem Jessica's daughter. The sqrt(n), where p^(2k+1) is a factor of n and p
+is prime, is never rational.
+
+Proof. With theorem (Jessica) we have proven the particular case of n = p. I
+plan to extend that notion to any n which has an odd number of p factor.
+
+The reasoning is similar. Suppose sqrt(n) = a/b. Then:
+	n = a^2 / b^2 ->
+	nb^2 = a^2
+by (Kelly) a^2 and b^2 have and even number of each prime factor. So, if we
+multiply b^2 by n we get an odd number of the factor p (after all odd plus even
+equals an odd number). Ergo, the equality nb^2 = a^2 doesn't hold, because a^2
+has no factor p^(2k+1) where p is prime.
+
+---------------------------------------------------------------------------
+
+NOTE: The previous theorems prove that only perfect squares are rational
+numbers. After all, if n only has factors p^(2k) where p is prime, then n is a
+perfect square. Note that sqrt(p^(2k)) = p^k and that will hold for all of n's
+factors.
